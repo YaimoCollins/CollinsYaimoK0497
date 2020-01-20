@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "776600268160",
+    "firebase_url": "https://androidexamen.firebaseio.com",
+    "project_id": "androidexamen",
+    "storage_bucket": "androidexamen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776600268160:android:91ce56c3515179bcdd2565",
+        "android_client_info": {
+          "package_name": "com.example.collinsyaimok0497"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776600268160-qiifshk34vhkc9tfm6ebirus34picujf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbBhacQOLgD_U83326TZ_OBdzWptqT5t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776600268160-qiifshk34vhkc9tfm6ebirus34picujf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
