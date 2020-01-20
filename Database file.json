@@ -1,0 +1,94 @@
+{
+  "pretparken" : {
+    "175dcce1-a18f-4c7a-a3ac-3f20c9a78a4d" : {
+      "Lat" : "5,04604",
+      "Lng" : "51,64683",
+      "Nr" : 1,
+      "desc" : "Kaatsheuvel",
+      "id" : "175dcce1-a18f-4c7a-a3ac-3f20c9a78a4d",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidexamen.appspot.com/o/efteling.jpg?alt=media&token=c73d29ad-bb33-4f19-a33f-e1ba28d71f33",
+      "title" : "De Efteling"
+    },
+    "2cdcc91e-5d08-4e74-ad09-38dc3672674c" : {
+      "Lat" : "6,56433",
+      "Lng" : "52,61951",
+      "Nr" : 2,
+      "desc" : "Slagharen",
+      "id" : "2cdcc91e-5d08-4e74-ad09-38dc3672674c",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidexamen.appspot.com/o/slagharen.jpg?alt=media&token=3ad7bdc2-1b6f-47b1-ac21-ea207b2a0d68",
+      "title" : "Slagharen"
+    },
+    "3490206e-18c5-4f45-8a14-d83760c2bf3d" : {
+      "Lat" : "2,59681",
+      "Lng" : "51,08091",
+      "Nr" : 10,
+      "desc" : "De Panne",
+      "id" : "3490206e-18c5-4f45-8a14-d83760c2bf3d",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidexamen.appspot.com/o/plopsaland.jpg?alt=media&token=33a6c579-d70e-41a1-a9b1-fcc061faab85",
+      "title" : "Plopsaland"
+    },
+    "3d706031-aa25-48e1-9512-92527fe5d947" : {
+      "Lat" : "4,35419",
+      "Lng" : "52,05493",
+      "Nr" : 4,
+      "desc" : "Den Haag",
+      "id" : "3d706031-aa25-48e1-9512-92527fe5d947",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidexamen.appspot.com/o/drievliet.jpg?alt=media&token=b9486eb3-2991-4d0d-92bc-0c8f8f33d276",
+      "title" : "Drievliet"
+    },
+    "71d126d5-d484-4e05-b4c5-3729d4ec66ff" : {
+      "Lat" : "5,12032",
+      "Lng" : "51,64651",
+      "Nr" : 3,
+      "desc" : "Drunen",
+      "id" : "71d126d5-d484-4e05-b4c5-3729d4ec66ff",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidexamen.appspot.com/o/drunenseduinen.jpg?alt=media&token=756ba429-1e95-452f-a7fe-680e014b2a9d",
+      "title" : "Drunense Duinen"
+    },
+    "92b7cb75-7c04-4759-ad35-0c5c5e6c9a43" : {
+      "Lat" : "5,13042",
+      "Lng" : "51,52050",
+      "Nr" : 9,
+      "desc" : "Hilvarenbeek",
+      "id" : "92b7cb75-7c04-4759-ad35-0c5c5e6c9a43",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidexamen.appspot.com/o/beeksebergen.jpg?alt=media&token=b3f741eb-85c4-4613-bca1-1bdcefcd85c5",
+      "title" : "Beeksebergen"
+    },
+    "9c027016-7db3-482e-9660-669dcf786785" : {
+      "Lat" : "5,61807",
+      "Lng" : "52,35369",
+      "Nr" : 7,
+      "desc" : "Harderwijk",
+      "id" : "9c027016-7db3-482e-9660-669dcf786785",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidexamen.appspot.com/o/dolfinarium.jpg?alt=media&token=78c68c0f-5b81-447e-8b5f-24e4aeef9c9a",
+      "title" : "Dolfinarium"
+    },
+    "b35f32f3-8ea3-484e-b644-263e584639cc" : {
+      "Lat" : "5,89718",
+      "Lng" : "52,18120",
+      "Nr" : 6,
+      "desc" : "Apeldoorn",
+      "id" : "b35f32f3-8ea3-484e-b644-263e584639cc",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidexamen.appspot.com/o/julianatoren.jpg?alt=media&token=fdfc4e49-8d3b-4c1d-858d-8aa78103633d",
+      "title" : "Julianatoren"
+    },
+    "f614820b-b948-4331-9283-cf63e64e9eae" : {
+      "Lat" : "4,38543",
+      "Lng" : "52,14865",
+      "Nr" : 5,
+      "desc" : "Wassenaar",
+      "id" : "f614820b-b948-4331-9283-cf63e64e9eae",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidexamen.appspot.com/o/duinrell.jpg?alt=media&token=5ae25a32-e2cd-4994-9d08-e090a7319dfd",
+      "title" : "Duinrell"
+    },
+    "fd35b9fb-817b-4c7a-8b8a-f112e72b44c3" : {
+      "Lat" : "5,68212",
+      "Lng" : "52,44754",
+      "Nr" : 8,
+      "desc" : "Biddinghuizen",
+      "id" : "fd35b9fb-817b-4c7a-8b8a-f112e72b44c3",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidexamen.appspot.com/o/walibi.jpg?alt=media&token=e6760e71-714f-4bb2-9cf5-b345e1d1e1ef",
+      "title" : "Walibi"
+    }
+  }
+}
