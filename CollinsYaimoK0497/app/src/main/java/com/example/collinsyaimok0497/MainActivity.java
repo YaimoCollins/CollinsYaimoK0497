@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        final Intent intNext = new Intent(this, MainActivity.class);
+        final Intent intNext = new Intent(this, PretparkDetail.class);
 
         FirebaseRecyclerAdapter<PretPark,CategorieViewHolder>firebaseRecyclerAdapter= new FirebaseRecyclerAdapter<PretPark, CategorieViewHolder>
                 (PretPark.class,R.layout.pretpark_row,CategorieViewHolder.class,mDatabase) {
@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                 viewHolder.setTitle(model.getTitle());
                 viewHolder.setDesc(model.getDesc());
                 viewHolder.setImage(getApplicationContext(),model.getImage());
-                viewHolder.itemView.setTag(model.getTitle());
+                viewHolder.itemView.setTag(model.getImage());
 
                 viewHolder.itemView.setOnClickListener(
                         new View.OnClickListener() {
@@ -79,9 +79,10 @@ public class MainActivity extends AppCompatActivity {
             TextView categorie_desc=(TextView)mView.findViewById(R.id.categorie_desc);
             categorie_desc.setText(desc);
         }
+
         public void setImage(Context ctx,String image){
             ImageView categorie_image=(ImageView)mView.findViewById(R.id.categorie_image);
-            Picasso.with(ctx).load(image).into(categorie_image);
+            Picasso.get().load(image).into(categorie_image);
         }
     }
 }

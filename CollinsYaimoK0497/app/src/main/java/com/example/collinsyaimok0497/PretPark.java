@@ -2,11 +2,13 @@ package com.example.collinsyaimok0497;
 
 public class PretPark {
     private String title;
+    private String id;
 
-    public PretPark(String title, String desc, String image) {
+    public PretPark(String title, String desc, String image, String id) {
         this.title = title;
         this.desc = desc;
         this.image = image;
+        this.id = id;
     }
 
     private String desc;
@@ -14,6 +16,10 @@ public class PretPark {
 
     public String getTitle() {
         return title;
+    }
+
+    public String getId() {
+        return id;
     }
 
     public void setTitle(String title) {
